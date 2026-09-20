@@ -1,0 +1,10 @@
+{
+  "name": "Remix Campus Lost and Found",
+  "description": "A modern, secure, and intuitive information system for reporting, browsing, and claiming lost and found items on campus.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

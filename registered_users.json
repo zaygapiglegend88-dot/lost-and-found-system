@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr-admin-main",
+    "name": "Main System Admin",
+    "email": "zaygapiglegend@gmail.com",
+    "passwordHash": "$2b$10$tsKuzlP2E3ciW4eB5sX/pO8nnaTtyaTV8WH7wJETzTkRSoYpBQFGu",
+    "role": "admin",
+    "studentId": "ADM-0001",
+    "phone": "+1 (555) 019-2831",
+    "status": "active",
+    "createdAt": "2026-09-11T10:49:47.492Z"
+  }
+]
